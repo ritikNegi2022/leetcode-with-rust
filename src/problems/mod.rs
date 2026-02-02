@@ -7,3 +7,4 @@ pub mod p1108_defanging_an_ip_address;
 pub mod p3541_find_most_frequent_vowel_and_consonant;
 pub mod p771_jewels_and_stones;
 pub mod p3794_reverse_string_prefix;
+pub mod p1689_partitioning_into_minimum_number_of_decibinary_numbers;
