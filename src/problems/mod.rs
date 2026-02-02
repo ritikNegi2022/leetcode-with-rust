@@ -3,3 +3,7 @@ pub mod p3110_score_of_a_string;
 pub mod p3760_maximum_substrings_with_distinct_start;
 pub mod p2011_final_value_of_variable_after_performing_operations;
 pub mod p2942_find_words_containing_character;
+pub mod p1108_defanging_an_ip_address;
+pub mod p3541_find_most_frequent_vowel_and_consonant;
+pub mod p771_jewels_and_stones;
+pub mod p3794_reverse_string_prefix;
