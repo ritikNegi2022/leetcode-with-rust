@@ -8,3 +8,6 @@ pub mod p3541_find_most_frequent_vowel_and_consonant;
 pub mod p771_jewels_and_stones;
 pub mod p3794_reverse_string_prefix;
 pub mod p1689_partitioning_into_minimum_number_of_decibinary_numbers;
+pub mod p3280_convert_date_to_binary;
+pub mod p3498_reverse_degree_of_a_string;
+pub mod p1684_count_the_number_of_consistent_strings;

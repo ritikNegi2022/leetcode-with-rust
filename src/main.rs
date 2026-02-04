@@ -1,5 +1,5 @@
 #[allow(dead_code)]
 mod problems;
 fn main() {
-    problems::p1689_partitioning_into_minimum_number_of_decibinary_numbers::run();
+    problems::p1684_count_the_number_of_consistent_strings::run();
 }
