@@ -11,3 +11,8 @@ pub mod p1689_partitioning_into_minimum_number_of_decibinary_numbers;
 pub mod p3280_convert_date_to_binary;
 pub mod p3498_reverse_degree_of_a_string;
 pub mod p1684_count_the_number_of_consistent_strings;
+pub mod p3211_generate_binary_strings_without_adjacent_zeros;
+pub mod p1678_goal_parser_interpretation;
+pub mod p3146_permutation_difference_between_two_strings;
+pub mod p1221_split_a_string_in_balanced_strings;
+pub mod p2125_number_of_laser_beams_in_a_bank;
