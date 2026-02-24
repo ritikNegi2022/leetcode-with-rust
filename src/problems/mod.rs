@@ -16,3 +16,7 @@ pub mod p1678_goal_parser_interpretation;
 pub mod p3146_permutation_difference_between_two_strings;
 pub mod p1221_split_a_string_in_balanced_strings;
 pub mod p2125_number_of_laser_beams_in_a_bank;
+pub mod p1021_remove_outermost_parentheses;
+pub mod p2114_maximum_number_of_words_found_in_sentences;
+pub mod p1816_truncate_sentence;
+pub mod p535_encode_and_decode_tinyurl;
