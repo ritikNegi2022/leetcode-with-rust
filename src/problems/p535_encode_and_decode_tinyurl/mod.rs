@@ -13,14 +13,14 @@ impl Codec {
     }
 
     // Encodes a URL to a shortened URL.
-    fn encode(&mut self, longURL: String) -> String {
-        self.urls.push(longURL);
+    fn encode(&mut self, long_url: String) -> String {
+        self.urls.push(long_url);
         format!("{}{}", self.base, self.urls.len() - 1)
     }
 
     // Decodes a shortened URL to its original URL.
-    fn decode(&self, shortURL: String) -> String {
-        let index: usize = shortURL.split("/").last().unwrap().parse().unwrap();
+    fn decode(&self, short_url: String) -> String {
+        let index: usize = short_url.split("/").last().unwrap().parse().unwrap();
         self.urls[index].clone()
     }
 }
