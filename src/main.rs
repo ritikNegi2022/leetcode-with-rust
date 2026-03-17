@@ -1,5 +1,5 @@
 #[allow(dead_code)]
 mod problems;
 fn main() {
-    problems::p2375_construct_smallest_number_from_di_string::run();
+    problems::p1415_the_kth_lexicographical_string_of_all_happy_strings_of_length_n::run();
 }
