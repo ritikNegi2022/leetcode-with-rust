@@ -25,3 +25,4 @@ pub mod p1662_check_if_two_string_arrays_are_equivalent;
 pub mod p2325_decode_the_message;
 pub mod p2375_construct_smallest_number_from_di_string;
 pub mod p1415_the_kth_lexicographical_string_of_all_happy_strings_of_length_n;
+pub mod p1528_shuffle_string;
