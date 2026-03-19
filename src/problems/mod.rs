@@ -26,3 +26,4 @@ pub mod p2325_decode_the_message;
 pub mod p2375_construct_smallest_number_from_di_string;
 pub mod p1415_the_kth_lexicographical_string_of_all_happy_strings_of_length_n;
 pub mod p1528_shuffle_string;
+pub mod p3838_weighted_word_mapping;
